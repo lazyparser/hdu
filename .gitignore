@@ -18,4 +18,5 @@
 *.obj
 *.dump
 *.bak
+a.out
 
